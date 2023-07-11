@@ -1,4 +1,4 @@
-# AdmissionQuiz - C# Windows Forms App college project (Node.js)
+# AdmissionQuiz - C# Windows Forms App college project
 
 This repository contains the source code for AdmissionQuiz, an application which is a set of math/computer science tests developed in Visual Studio 2019 IDE. The tests aim to assess the user's knowledge for the admission exam of the Faculty of Automatic Control and Computers. The application follows the Model-View-Controller (MVC) architectural pattern. It is written in C# and designed as a Windows Forms application.
 
