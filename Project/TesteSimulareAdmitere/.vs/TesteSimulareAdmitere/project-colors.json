@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "92c41447-9b47-42f3-83aa-1cc0ea432b21": {
+      "ProjectGuid": "92c41447-9b47-42f3-83aa-1cc0ea432b21",
+      "DisplayName": "TesteSimulareAdmitere",
+      "ColorIndex": 0
+    },
+    "704807f5-7ee6-4803-9911-3504b94720eb": {
+      "ProjectGuid": "704807f5-7ee6-4803-9911-3504b94720eb",
+      "DisplayName": "DataBaseConnection",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c733fb3c-571c-4431-b875-2de20885eed9": {
+      "ProjectGuid": "c733fb3c-571c-4431-b875-2de20885eed9",
+      "DisplayName": "QuizState",
+      "ColorIndex": 2
+    },
+    "0e60373b-5906-49d0-99a8-862353f13880": {
+      "ProjectGuid": "0e60373b-5906-49d0-99a8-862353f13880",
+      "DisplayName": "QuizContext",
+      "ColorIndex": 3
+    },
+    "c5f28c89-60b7-4eb7-8b44-406d7a8cda23": {
+      "ProjectGuid": "c5f28c89-60b7-4eb7-8b44-406d7a8cda23",
+      "DisplayName": "QuizIterator",
+      "ColorIndex": 4
+    },
+    "f0b77b9b-dec2-4106-8ed0-e3d72438ff86": {
+      "ProjectGuid": "f0b77b9b-dec2-4106-8ed0-e3d72438ff86",
+      "DisplayName": "QuestionManager",
+      "ColorIndex": 5
+    },
+    "8c8f6909-ec0d-4c27-828a-3b8ef904d8e2": {
+      "ProjectGuid": "8c8f6909-ec0d-4c27-828a-3b8ef904d8e2",
+      "DisplayName": "UserManager",
+      "ColorIndex": 6
+    },
+    "ca005271-2e2b-44b8-8234-4896225f6d9a": {
+      "ProjectGuid": "ca005271-2e2b-44b8-8234-4896225f6d9a",
+      "DisplayName": "SettingsStrategy",
+      "ColorIndex": 7
+    },
+    "1a38ed7f-0e4d-4503-a9be-52fe457b1207": {
+      "ProjectGuid": "1a38ed7f-0e4d-4503-a9be-52fe457b1207",
+      "DisplayName": "DataBaseConnectionUnitTest",
+      "ColorIndex": 8
+    },
+    "48d3affa-bb92-4070-bbbf-87b0a75556ae": {
+      "ProjectGuid": "48d3affa-bb92-4070-bbbf-87b0a75556ae",
+      "DisplayName": "QuizContextUnitTest",
+      "ColorIndex": 9
+    },
+    "775330f0-11bd-4c67-b176-c96879e3e52d": {
+      "ProjectGuid": "775330f0-11bd-4c67-b176-c96879e3e52d",
+      "DisplayName": "UserManagerUnitTest",
+      "ColorIndex": 10
+    },
+    "aa2e9727-387c-4d33-b0a6-adf8123d1bcb": {
+      "ProjectGuid": "aa2e9727-387c-4d33-b0a6-adf8123d1bcb",
+      "DisplayName": "QuestionManagerUnitTest",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

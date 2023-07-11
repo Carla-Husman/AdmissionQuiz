@@ -1,0 +1,136 @@
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.AssemblyReference.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.SuggestedBindingRedirects.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.Properties.Resources.resources
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.GenerateResource.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.CoreCompileInputs.cache
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.exe.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.exe
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.dll.config
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.CopyComplete
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.exe
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.pdb
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.exe
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.dll
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuestionManager.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuestionManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.exe.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.exe
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.SqlServer.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuestionManager.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.EF6.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.Linq.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.dll.config
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.SqlServer.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuestionManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.AssemblyReference.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.Properties.Resources.resources
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.GenerateResource.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.CoreCompileInputs.cache
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.exe
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.LoginForm.resources
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\UserManager.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\UserManager.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.RegisterForm.resources
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.SettingsForm.resources
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.CopyComplete
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\UserManager.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\UserManager.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.LoginForm.resources
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.RegisterForm.resources
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.SettingsForm.resources
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuestionManager.dll
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\UserManager.dll
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizContext.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizContext.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizState.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizContext.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizState.pdb
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.TesteSimulareAdmitere.resources
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.StartStateForm.resources
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.QuestionStateForm.resources
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.EndStateForm.resources
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\SettingsStrategy.dll
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\SettingsStrategy.pdb
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.AssemblyReference.cache
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.EndStateForm.resources
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.TesteSimulareAdmitere.resources
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.LoginForm.resources
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.StartStateForm.resources
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.Properties.Resources.resources
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.RegisterForm.resources
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.SettingsForm.resources
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.QuestionStateForm.resources
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.GenerateResource.cache
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.CoreCompileInputs.cache
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.xml
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.dll
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizState.dll
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\SettingsStrategy.dll
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.EF6.dll
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.Linq.dll
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizContext.pdb
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizContext.xml
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\UserManager.pdb
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\UserManager.xml
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.pdb
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.xml
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.dll.config
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.xml
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuestionManager.pdb
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuestionManager.xml
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizState.pdb
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizState.xml
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\SettingsStrategy.pdb
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\System.Data.SQLite.xml
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.exe
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.pdb
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.exe.config
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.pdb
+E:\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.csproj.CopyComplete
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizContext.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\UserManager.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuestionManager.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizState.xml
+C:\Users\Husman Carla\Desktop\Facultate\An 3\Sem 2\Ingineria Programarii\ProjectIP\TesteSimulareAdmitere\bin\Debug\SettingsStrategy.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\TesteSimulareAdmitere.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizContext.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizState.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\SettingsStrategy.dll
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizContext.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizContext.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\UserManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\DataBaseConnection.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuestionManager.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizState.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\QuizState.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\SettingsStrategy.pdb
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\bin\Debug\SettingsStrategy.xml
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.EndStateForm.resources
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.TesteSimulareAdmitere.resources
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.StartStateForm.resources
+D:\AN3 SEM2\IP_PROIECT\ProjectIP\TesteSimulareAdmitere\obj\Debug\TesteSimulareAdmitere.QuestionStateForm.resources
+E:\ProjectIP\TesteSimulareAdmitere\bin\Debug\SettingsStrategy.xml
